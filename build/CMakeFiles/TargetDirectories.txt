@@ -1,0 +1,7 @@
+/home/skhamari/filereader/build/CMakeFiles/filereader.dir
+/home/skhamari/filereader/build/CMakeFiles/edit_cache.dir
+/home/skhamari/filereader/build/CMakeFiles/rebuild_cache.dir
+/home/skhamari/filereader/build/CMakeFiles/list_install_components.dir
+/home/skhamari/filereader/build/CMakeFiles/install.dir
+/home/skhamari/filereader/build/CMakeFiles/install/local.dir
+/home/skhamari/filereader/build/CMakeFiles/install/strip.dir
